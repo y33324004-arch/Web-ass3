@@ -20,4 +20,4 @@ This project was created as part of the **Web Development 1** course (Week 03 As
 2. Open `blog-page.html` in any modern web browser (Chrome, Firefox, Edge, Safari).
 
 ## 👤 Author
-* **Yara** – Web Development Student at Al-Aqsa University
+* **Yara** – Student at Al-Aqsa University
